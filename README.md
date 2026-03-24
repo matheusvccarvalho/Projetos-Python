@@ -15,6 +15,7 @@ Listas, tuplas e dicionários
 Funções
 Entrada e saída de dados
 Lógica de programação
+
 🎯 Objetivo
 
 O objetivo deste repositório é consolidar os conhecimentos adquiridos no curso, além de servir como material de consulta e prática contínua na linguagem Python.
